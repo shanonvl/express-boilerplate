@@ -1,0 +1,13 @@
+{
+  "name": "express-boilerplate",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "coffee server.coffee"
+  },
+  "dependencies": {
+    "express": "3.2.6",
+    "connect-assets": "2.4.x",
+    "jade": "~0.31.2"
+  }
+}
